@@ -36,6 +36,7 @@ import tkinter from "./tkinter.png";
 import online from "./online.png";
 import dbwf from "./dbo.png";
 import fastapi from "./fastapi.svg";
+import sudoku from "./sudoku.png";
 
 export {
   logo,
@@ -75,5 +76,6 @@ export {
     tkinter,
     online,
     dbwf,
+    sudoku,
     fastapi
 };
