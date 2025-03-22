@@ -202,27 +202,6 @@ const projects = [
         source_code_link: "https://github.com/Davy-G/crud-database-reader-tkinter",
     },
     {
-        name: "windows activator script",
-        description:
-            "a simple script that i created for activating windows quickly and without hassle",
-        tags: [
-            {
-                name: "python",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "windows",
-                color: "green-text-gradient",
-            },
-            {
-                name: "cmd",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: py,
-        source_code_link: "https://github.com/Davy-G/windows-activator-python",
-    }, 
-    {
         name: "Online Store Manager",
         description:
             "a project for azure certification (placed top 3 by score) allows a user, to access fake store database and CREATE READ UPDATE DELETE data (with authentication)",
