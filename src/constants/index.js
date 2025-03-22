@@ -31,6 +31,7 @@ import {
     manager,
     tkinter,
     online,
+    sudoku,
     dbwf, github, fastapi
 } from "../assets";
 
@@ -291,7 +292,32 @@ const projects = [
         ],
         image: csharp,
         source_code_link: "https://github.com/Davy-G/StoreProject",
+    },{
+        name: "Sudoku app",
+        description:
+            "sudoku game with auto board generation and mistake counting.",
+        tags: [
+            {
+                name: "Ts",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Js",
+                color: "green-text-gradient",
+            },
+            {
+                name: "React",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Npm",
+                color: "green-text-gradient",
+            },
+        ],
+        image: sudoku,
+        source_code_link: "https://github.com/gogodze/sudoku",
     },
+
 
 
 
